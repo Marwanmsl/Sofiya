@@ -194,7 +194,7 @@ def company_mode(APIKEY, Syllabus, video_state2, stop_switch):
     company_name = "MohammedMarwan"
     Api_key = load_api_key(APIKEY)
     genai.configure(api_key=Api_key)
-    model = genai.GenerativeModel('gemini-pro')
+    model = genai.GenerativeModel('gemini-2.0-flash')
     chat = model.start_chat(history=[])
     engine2 = pyttsx3.init()
     desired_voice_id2 = 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0'
