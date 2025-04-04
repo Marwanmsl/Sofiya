@@ -1,0 +1,90 @@
+{
+    "Mathematics": {
+        "Algebra": {
+            "what is an equation": "An equation is a mathematical statement that asserts the equality of two expressions.",
+            "what is the quadratic formula": "The quadratic formula is x = (-b ± √(b²-4ac)) / (2a).",
+            "what is binomial theorem": "Binomial theorem is a formula that provides the expansion of powers of binomials in terms of the sum of powers of their terms."
+        },
+        "Geometry": {
+            "what is a triangle": "A triangle is a polygon with three edges and three vertices.",
+            "what is the Pythagorean theorem": "The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides."
+        }
+    },
+    "Science": {
+        "Biology": {
+            "what is photosynthesis": "Photosynthesis is the process by which green plants use sunlight to synthesize foods from carbon dioxide and water."
+        },
+        "Physics": {
+            "what is Newton's second law": "Newton's second law states that the force acting on an object is equal to the mass of that object times its acceleration."
+        }
+    },
+    "Lobby management system": {
+        "Seculobby": {
+            "tell me about secu lobby management system": "Seculobby is an AI-based visitor management solution with integrated Robotics. Infotech is the authorized dealer in UAE.",
+            "could you explain the lobby management system": "Seculobby is an AI-based visitor management solution with integrated Robotics. Infotech is the authorized dealer in UAE.",
+            "how does a lobby management system work": "Seculobby works by managing visitor check-ins, improving security, and enhancing the overall experience with AI and Robotics integration.",
+            "what is the purpose of a lobby management system": "The purpose of a lobby management system is to streamline the visitor check-in process, improve security, and offer a seamless experience through advanced technology.",
+            "what are the benefits of using a lobby management system": "It enhances security, speeds up visitor check-ins, provides real-time data, and improves overall guest experience.",
+            "what features does a lobby management system have": "It includes visitor registration, check-in and check-out management, visitor badge printing, and real-time notifications.",
+            "how does the lobby management system ensure security": "By logging visitor details, capturing photos, and notifying the host of visitor arrivals.",
+            "can a lobby management system be customized": "Yes, most systems can be tailored to meet specific business needs.",
+            "how does a lobby management system handle pre-registered visitors": "It allows pre-registered visitors to quickly check in without waiting, using a unique code or ID.",
+            "what data is captured in a lobby management system": "Name, contact information, photo, purpose of visit, and the host being visited.",
+            "how is visitor privacy ensured in a lobby management system": "By encrypting data and following strict data privacy regulations.",
+            "does a lobby management system integrate with other systems": "Yes, it can integrate with access control systems, CRM, and other enterprise solutions.",
+            "can the system handle walk-in visitors": "Yes, walk-in visitors can be registered and checked in manually.",
+            "what are the hardware requirements for a lobby management system": "It typically includes a computer or tablet, a camera, a printer for visitor badges, and internet connectivity.",
+            "how does a lobby management system help with emergency evacuations": "By providing real-time data on who is in the building, making it easier to account for everyone during an evacuation.",
+            "is there a mobile app for the lobby management system": "Some systems offer mobile apps for visitors to pre-register or check in via their smartphones.",
+            "how does a lobby management system help with compliance": "It ensures that visitor logs are kept securely and provides reports for audits or inspections.",
+            "how long is visitor data stored in the system": "This depends on the company’s data retention policies and privacy laws.",
+            "what is the cost of implementing a lobby management system": "Costs vary based on features, customization, and hardware, but typical systems range from hundreds to thousands of dollars.",
+            "how does a lobby management system handle visitor badges": "The system prints badges with the visitor's name, photo, and details upon check-in.",
+            "what are the types of visitors a lobby management system can handle": "It can handle employees, contractors, guests, and delivery personnel.",
+            "can visitors check out using the system": "Yes, visitors can check out when leaving, updating the log and freeing up visitor capacity.",
+            "what reports can a lobby management system generate": "It can generate daily, weekly, or monthly visitor reports for analysis and audits.",
+            "how does a lobby management system help with visitor accountability": "It provides an accurate log of who is in the building, who they are visiting, and when they checked in and out.",
+            "does the system support multiple languages": "Many systems support multiple languages for ease of use in global operations.",
+            "can the system integrate with biometric authentication": "Yes, some systems can integrate with fingerprint or facial recognition for added security.",
+            "how does a lobby management system handle group visits": "It can streamline check-ins for groups by allowing pre-registration and bulk data entry.",
+            "what types of notifications does a lobby management system send": "It can send SMS, email, or app notifications to alert hosts when their visitors arrive.",
+            "what is the role of AI in a lobby management system": "AI can help automate visitor management tasks, improve data analytics, and provide smart insights for operations.",
+            "can visitors sign legal documents through the system": "Yes, some systems include e-signature functionality for signing NDAs or visitor agreements.",
+            "is the system cloud-based or on-premise": "Many systems offer both cloud-based and on-premise deployment options.",
+            "can the system detect and flag banned visitors": "Yes, it can cross-check visitor data against a watchlist and notify security if a flagged individual attempts entry.",
+            "how does the lobby management system manage deliveries": "It tracks package deliveries and notifies the recipient once they arrive.",
+            "can the system support multi-site operations": "Yes, some systems allow for centralized control of visitor management across multiple locations.",
+            "what are the security protocols in place for data storage": "Data is typically stored securely with encryption, backups, and restricted access to sensitive information.",
+            "how does the system handle visitor parking": "It can manage parking reservations and issue parking passes for visitors.",
+            "what happens if the system goes offline": "Most systems have offline modes to continue functioning without internet access, syncing data once online.",
+            "how can a lobby management system reduce wait times": "By enabling self-check-in kiosks, pre-registration, and fast badge printing.",
+            "how does the system handle visitor photo capture": "It takes a photo during check-in, either manually or automatically, for identification purposes.",
+            "can the system generate QR codes for visitors": "Yes, it can generate QR codes for pre-registered visitors to scan at check-in for faster entry.",
+            "how does a lobby management system enhance the visitor experience": "It simplifies check-ins, reduces wait times, and offers a seamless, tech-driven experience.",
+            "can the system track employee movements": "Some systems include employee tracking as part of the overall visitor management.",
+            "how does the system handle visitor agreements": "It can prompt visitors to sign NDAs or agree to terms and conditions during check-in.",
+            "how does the system integrate with CCTV or security cameras": "It can interface with CCTV systems to capture real-time footage of visitors entering the premises.",
+            "what happens if a visitor overstays their allocated time": "The system can notify the host or security when a visitor has exceeded their expected duration.",
+            "how is visitor data exported from the system": "Visitor data can be exported as CSV or Excel files for analysis or reporting.",
+            "can the system support VIP or frequent visitor profiles": "Yes, it can store profiles for frequent visitors, enabling faster check-ins and personalized experiences.",
+            "how does the system handle deliveries when no one is available to receive them": "It can notify designated personnel to handle or store the deliveries securely.",
+            "can visitors book meetings through the system": "Some systems allow visitors to schedule appointments directly through the platform.",
+            "how does the system support health and safety compliance": "It can track visitor health declarations, monitor occupancy levels, and ensure adherence to safety regulations.",
+            "does the system provide real-time visitor insights": "Yes, it can offer real-time dashboards displaying the number of visitors, check-in times, and more.",
+            "what happens if a visitor refuses to check in": "Security or reception staff can be notified, and manual logs may be kept as a backup.",
+            "can the system handle self-check-in kiosks": "Yes, many systems support touchless self-check-in using kiosks or mobile devices.",
+            "how does the system handle visitor temperature screening": "Some systems can integrate with temperature scanners to check visitor health before entry.",
+            "can the system restrict access to certain areas based on visitor roles": "Yes, it can limit access to specific zones based on the visitor's purpose or clearance level.",
+            "how does the system handle unexpected visitors": "Reception can manually register unexpected visitors and notify the host for approval.",
+            "how does the system help manage visitor capacity": "It can track the number of visitors in real time and issue alerts when capacity limits are approached.",
+            "can visitors provide feedback through the system": "Some systems include visitor satisfaction surveys as part of the check-out process.",
+            "how does the system support contactless visitor management": "Through mobile apps, QR codes, and self-check-in kiosks, visitors can check in without touching shared surfaces.",
+            "how does the system ensure the accuracy of visitor information": "It can validate data entries and cross-reference with government-issued IDs or other documents.",
+            "how does the system handle visitor check-out": "Visitors can check out by scanning their badge, QR code, or through a kiosk, updating their departure in the system.",
+            "can visitors schedule return visits": "Yes, return visits can be scheduled, and the system can send reminders or notifications.",
+            "how does the system handle event or conference visitor management": "It can manage bulk check-ins, pre-register large groups, and provide event-specific badges.",
+            "how does the system integrate with smart buildings": "It can communicate with building systems, such as lighting or HVAC, to optimize visitor experience.",
+            "how does the system ensure compliance with GDPR or other privacy laws": "By securely storing data, offering options for data deletion, and ensuring visitor consent for data collection."
+        }
+    }
+}
